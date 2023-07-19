@@ -126,6 +126,11 @@ section#address :-ms-input-placeholder {
   height: 200px;
 }
 
+.image {
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+
 p {
   line-height: 1;
 }
