@@ -126,3 +126,14 @@ section#address :-ms-input-placeholder {
   height: 200px;
 }
 
+p {
+  line-height: 1;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+h2 {
+  font-size: 40px;
+}
